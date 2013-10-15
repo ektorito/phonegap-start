@@ -9,7 +9,7 @@
     <name>Hello World Hector</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Aplicación de Hello World de ejemplo que responde al evento deviceready .
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
